@@ -1,8 +1,26 @@
 body {
-    background: white url("images/background.png") no-repeat;
+    background: white url("images/background.png");
     background-position: right bottom;
+    background-repeat: repeat;
 }
 
 li a {
-    color: gray;
+    color: grey;
+}
+h1{
+    color: chartreuse;
+}
+ul li {
+    color: antiquewhite;
+}
+
+a {
+    color: grey;
+}
+
+label {
+    color: grey;
+}
+form input {
+    color: black;
 }
